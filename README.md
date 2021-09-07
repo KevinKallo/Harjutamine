@@ -1,1 +1,2 @@
-[harjutamine.txt.txt](https://github.com/KevinKallo/Harjutamine/files/7120666/harjutamine.txt.txt)
+[harjutamine.txt.txt](https://github.com/KevinKallo/Harjutamine/files/7120700/harjutamine.txt.txt)
+
