@@ -1,0 +1,22 @@
+function balanced(tähed) {
+    let str ="xxxyyy"
+    let x=0, y=0
+    for (let täht of tähed) {
+       if(täht =='x')
+         x++
+       if(täht =='y')
+         y++
+    }
+    return x == y
+}
+
+)e2ö.{cä5hbõkfkd@äe%5af/{#%94õfe}üc}j/ähö#ha/g-{bj2-g-)ü47.47a9idib)d9@2ö5}j.c%õ_i7üg@#k
+)=3
+e=3
+ö=3
+.=3
+{=3
+c=3
+ä=3
+5=3
+h=
